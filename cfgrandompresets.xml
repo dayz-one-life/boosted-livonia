@@ -42,6 +42,19 @@
 			<item name="Fal_FoldingBttstck" chance="0.5" />
 			<item name="Fal_OeBttstck" chance="0.5" />
 		</attachments>
+		<attachments chance="1.0" name="MP5_Buttstocks">
+			<item name="MP5k_StockBttstck" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0" name="MP5_Handguards">
+			<item name="MP5_PlasticHndgrd" chance="0.5" />
+			<item name="MP5_RailHndgrd" chance="0.5" />
+		</attachments>
+		<attachments chance="1.0" name="PP19_Buttstocks">
+			<item name="PP19_Bttstck" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0" name="Saiga_Buttstocks">
+			<item name="Saiga_Bttstck" chance="1.0" />
+		</attachments>
 
 
 
