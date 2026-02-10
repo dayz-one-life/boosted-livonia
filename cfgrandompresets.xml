@@ -231,6 +231,13 @@
 		<item name="M68Optic" chance="0.25" />
 		<item name="KashtanOptic" chance="0.25" />
 	</attachments>
+	<attachments chance="0.5" name="Mosin_Optics">
+		<item name="PUScopeOptic" chance="1.0" />
+	</attachments>
+	<attachments chance="1.0" name="Hunting_Optics">
+		<item name="HuntingOptic" chance="0.9" />
+		<item name="SportingOptic" chance="0.1" />
+	</attachments>
 	<!-- BAYONETS -->
 	<attachments chance="0.1" name="AK_Bayonets">
 		<item name="AK_Bayonet" chance="1.0" />

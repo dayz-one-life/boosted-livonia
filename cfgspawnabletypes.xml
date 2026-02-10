@@ -2446,18 +2446,24 @@
 		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="CZ527">
+		<attachments preset="Hunting_Optics" />
+		<attachments preset="9v" />
 		<attachments preset="CZ527_Magazines" />
 		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="Winchester70">
+		<attachments preset="Hunting_Optics" />
+		<attachments preset="9v" />
 		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="Mosin9130">
+		<attachments preset="Mosin_Optics" />
 		<attachments preset="Mosin_Bayonets" />
 		<attachments preset="Mosin_Compensators" />
 		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="SKS">
+		<attachments preset="Mosin_Optics" />
 		<attachments preset="SKS_Bayonets" />
 		<attachments preset="GhillieWraps" />
 	</type>
@@ -2571,6 +2577,8 @@
 		<attachments preset="9v" />
 	</type>
 	<type name="B95">
+		<attachments preset="Hunting_Optics" />
+		<attachments preset="9v" />
 		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="Saiga">
@@ -2581,6 +2589,8 @@
 		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="Ruger1022">
+		<attachments preset="Hunting_Optics" />
+		<attachments preset="9v" />
 		<attachments preset="1022_Magazines" />
 		<attachments preset="GhillieWraps" />
 	</type>
@@ -2618,6 +2628,8 @@
 		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="CZ550">
+		<attachments preset="Hunting_Optics" />
+		<attachments preset="9v" />
 		<attachments preset="CZ550_Magazines" />
 		<attachments preset="GhillieWraps" />
 	</type>
