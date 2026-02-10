@@ -251,6 +251,13 @@
 	<attachments chance="0.1" name="MP5_Compensators">
 		<item name="MP5_Compensator" chance="1.0" />
 	</attachments>
+	<!-- GHILLIE WRAPS -->
+	<attachments chance="0.05" name="GhillieWraps">
+		<item name="GhillieAtt_Mossy" chance="0.25" />
+		<item name="GhillieAtt_Tan" chance="0.25" />
+		<item name="GhillieAtt_Winter" chance="0.25" />
+		<item name="GhillieAtt_Woodland" chance="0.25" />
+	</attachments>
 
 
 

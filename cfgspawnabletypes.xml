@@ -2417,11 +2417,13 @@
 		<attachments preset="9v" />
 		<attachments preset="M4_CQB_Optics" />
 		<attachments preset="9v" />
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="VSS">
 		<attachments preset="9x39_Magazines" />
 		<attachments preset="AK74_Optics" />
 		<attachments preset="9v" />
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="ASVAL">
 		<attachments preset="9x39_Magazines" />
@@ -2429,28 +2431,35 @@
 		<attachments preset="9v" />
 		<attachments preset="M4_Optics" />
 		<attachments preset="9v" />
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="Vikhr">
 		<attachments preset="9x39_Magazines" />
 		<attachments preset="AK74_CQB_Optics" />
 		<attachments preset="9v" />
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="SV98">
 		<attachments preset="SV98_Magazines" />
 		<attachments preset="M4_Sniper_Optics" />
 		<attachments preset="9v" />
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="CZ527">
 		<attachments preset="CZ527_Magazines" />
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="Winchester70">
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="Mosin9130">
 		<attachments preset="Mosin_Bayonets" />
 		<attachments preset="Mosin_Compensators" />
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="SKS">
 		<attachments preset="SKS_Bayonets" />
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="AKM">
 		<attachments preseet="AK_Buttstocks" />
@@ -2462,6 +2471,7 @@
 		<attachments preset="9v" />
 		<attachments preset="AK74_CQB_Optics" />
 		<attachments preset="9v" />
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="AK74">
 		<attachments preseet="AK_Buttstocks" />
@@ -2473,11 +2483,13 @@
 		<attachments preset="9v" />
 		<attachments preset="AK74_CQB_Optics" />
 		<attachments preset="9v" />
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="AKS74U">
 		<attachments preseet="AK_Buttstocks" />
 		<attachments preset="AK74_Magazines" />
 		<attachments preset="AK_Suppressors" />
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="AK101">
 		<attachments preseet="AK_Buttstocks" />
@@ -2489,6 +2501,7 @@
 		<attachments preset="9v" />
 		<attachments preset="AK74_CQB_Optics" />
 		<attachments preset="9v" />
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="M4A1">
 		<attachments preset="M4_Buttstocks" />
@@ -2500,13 +2513,16 @@
 		<attachments preset="9v" />
 		<attachments preset="M4_Optics" />
 		<attachments preset="9v" />
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="M16A2">
 		<attachments preset="556_Magazines" />
 		<attachments preset="M4_Bayonets" />
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="FAMAS">
 		<attachments preset="FAMAS_Magazines" />
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="Aug">
 		<attachments preset="556_Magazines" />
@@ -2515,27 +2531,32 @@
 		<attachments preset="9v" />
 		<attachments preset="M4_Optics" />
 		<attachments preset="9v" />
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="AugShort">
 		<attachments preset="Aug_Magazines" />
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="FAL">
 		<attachments preset="FAL_Buttstocks" />
 		<attachments preset="FAL_Magazines" />
 		<attachments preset="M4_Optics" />
 		<attachments preset="9v" />
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="SVD">
 		<attachments preset="SVD_Magazines" />
 		<attachments preset="AK_Suppressors" />
 		<attachments preset="AK74_Sniper_Optics" />
 		<attachments preset="9v" />
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="SVD_Wooden">
 		<attachments preset="SVD_Magazines" />
 		<attachments preset="AK_Suppressors" />
 		<attachments preset="AK74_Sniper_Optics" />
 		<attachments preset="9v" />
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="Colt1911">
 		<attachments preset="1911_Magazines" />
@@ -2550,15 +2571,18 @@
 		<attachments preset="9v" />
 	</type>
 	<type name="B95">
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="Saiga">
 		<attachments preset="Saiga_Buttstocks" />
 		<attachments preset="Saiga_Magazines" />
 		<attachments preset="AK74_CQB_Optics" />
 		<attachments preset="9v" />
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="Ruger1022">
 		<attachments preset="1022_Magazines" />
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="Deagle">
 		<attachments preset="Deagle_Magazines" />
@@ -2577,21 +2601,25 @@
 		<attachments preset="M4_Suppressors" />
 		<attachments preset="M4_Sniper_Optics" />
 		<attachments preset="9v" />
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="Scout_Chernarus">
 		<attachments preset="Scout_Magazines" />
 		<attachments preset="M4_Suppressors" />
 		<attachments preset="M4_Sniper_Optics" />
 		<attachments preset="9v" />
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="Scout_Livonia">
 		<attachments preset="Scout_Magazines" />
 		<attachments preset="M4_Suppressors" />
 		<attachments preset="M4_Sniper_Optics" />
 		<attachments preset="9v" />
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="CZ550">
 		<attachments preset="CZ550_Magazines" />
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="PP19">
 		<attachments preset="PP19_Buttstocks" />
@@ -2599,6 +2627,7 @@
 		<attachments preset="PistolSuppressors" />
 		<attachments preset="AK74_CQB_Optics" />
 		<attachments preset="9v" />
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="PM73Rak">
 		<attachments preset="PM73_Magazines" />
@@ -2608,6 +2637,7 @@
 		<attachments preset="9v" />
 		<attachments preset="M4_CQB_Optics" />
 		<attachments preset="9v" />
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="LongHorn">
 		<attachments preset="LongRangePistolOptics" />
@@ -2617,15 +2647,18 @@
 	</type>
 	<type name="SSG82">
 		<attachments preset="SSG82_Magazines" />
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="MP133Shotgun">
 		<attachments preset="PistolOptics" />
 		<attachments preset="9v" />
+		<attachments preset="GhillieWraps" />
 	</type>
 	<type name="M14">
 		<attachments preset="M14_Magazines" />
 		<attachments preset="M4_Sniper_Optics" />
 		<attachments preset="9v" />
+		<attachments preset="GhillieWraps" />
 	</type>
 	<!--  END OF WEAPONS  -->
 
