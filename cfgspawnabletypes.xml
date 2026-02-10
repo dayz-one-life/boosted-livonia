@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-
 <spawnabletypes>
 	<type name="Flashlight">
 		<attachments preset="9v" />
@@ -70,8 +69,6 @@
 	<type name="StarlightOptic">
 		<attachments preset="9v" />
 	</type>
-
-
 	<type name="ImprovisedExplosive">
 		<cargo chance="1.0">
 			<item name="Plastic_Explosive" />
@@ -131,39 +128,7 @@
 	<type name="WoodenCrate">
 		<hoarder />
 	</type>
-	<type name="GiftWrapPaper">
-		
-	</type>
-
-	<type name="KazuarOptic">
-		
-	</type>
-	
-	<type name="StarlightOptic">
-		
-	</type>
-	
-	<type name="AugOptic">
-		
-	</type>
-	
-	<type name="SSG82Optic">
-		
-	</type>
-	<type name="ChristmasHeadband_Antlers">
-		
-	</type>
-	<type name="ChristmasHeadband_Trees">
-		
-	</type>
-	<type name="ChristmasHeadband_Gingerbread">
-		
-	</type>
-	
-	<type name="PlateCarrierVest">
-	</type>
 	<type name="PlateCarrierVest_Black">
-		
 		<attachments chance="0.85">
 			<item name="PlateCarrierHolster_Black" chance="1.00" />
 		</attachments>
@@ -172,7 +137,6 @@
 		</attachments>
 	</type>
 	<type name="PlateCarrierVest_Green">
-		
 		<attachments chance="0.85">
 			<item name="PlateCarrierHolster_Green" chance="1.00" />
 		</attachments>
@@ -181,57 +145,10 @@
 		</attachments>
 	</type>
 	<type name="Mich2001Helmet">
-		
 		<attachments chance="0.85">
 			<item name="NVGoggles" chance="1.00" />
 			<item name="Battery9V" chance="1.00" />
 		</attachments>
-	</type>
-	<type name="SparkPlug">
-	</type>
-	<type name="Glowplug">
-	</type>
-	<type name="CarRadiator">
-		
-	</type>
-	<type name="CarBattery">
-		
-	</type>
-	<type name="TruckBattery">
-		
-	</type>
-	<type name="SmallStone">
-		
-	</type>
-	<type name="Stone">
-		
-	</type>
-	<type name="FilteringBottle">
-		
-	</type>
-	<type name="ScientificBriefcase">
-		
-	</type>
-	<type name="ScientificBriefcaseKeys">
-		
-	</type>
-	<type name="ShippingContainerKeys_Blue">
-		
-	</type>
-	<type name="ShippingContainerKeys_Yellow">
-		
-	</type>
-	<type name="ShippingContainerKeys_Red">
-		
-	</type>
-	<type name="ShippingContainerKeys_Orange">
-		
-	</type>
-	<type name="Ammo_40mm_Explosive">
-		
-	</type>
-	<type name="Ammo_40mm_POX">
-		
 	</type>
 	<type name="AssaultBag_Ttsko">
 		<cargo preset="mixArmy" />
@@ -470,113 +387,197 @@
 			<item name="BloodTestKit" />
 		</cargo>
 	</type>
-	<type name="BandageDressing">
-		
-	</type>
 	<type name="AmmoBox">
-		<cargo chance="0.20"> <item name="AmmoBox_9x39_20Rnd" /> </cargo>			
-		<cargo chance="0.20"> <item name="AmmoBox_9x39_20Rnd" /> </cargo>			
-		<cargo chance="0.10"> <item name="AmmoBox_9x39AP_20Rnd" /> </cargo>			
-		<cargo chance="0.10"> <item name="AmmoBox_9x39AP_20Rnd" /> </cargo>	
-		<cargo chance="0.25"> <item name="AmmoBox_308Win_20Rnd" /> </cargo>			
-		<cargo chance="0.25"> <item name="AmmoBox_308Win_20Rnd" /> </cargo>			
-		<cargo chance="0.15"> <item name="AmmoBox_308WinTracer_20Rnd" /> </cargo>			
-		<cargo chance="0.15"> <item name="AmmoBox_308WinTracer_20Rnd" /> </cargo>	
-		<cargo chance="0.25"> <item name="AmmoBox_762x54_20Rnd" /> </cargo>			
-		<cargo chance="0.25"> <item name="AmmoBox_762x54_20Rnd" /> </cargo>				
-		<cargo chance="0.15"> <item name="AmmoBox_762x54Tracer_20Rnd" /> </cargo>			
-		<cargo chance="0.15"> <item name="AmmoBox_762x54Tracer_20Rnd" /> </cargo>	
-		<cargo chance="0.5"> <item name="AmmoBox_545x39_20Rnd" /> </cargo>			
-		<cargo chance="0.5"> <item name="AmmoBox_545x39_20Rnd" /> </cargo>			
-		<cargo chance="0.5"> <item name="AmmoBox_545x39_20Rnd" /> </cargo>			
-		<cargo chance="0.5"> <item name="AmmoBox_545x39_20Rnd" /> </cargo>			
-		<cargo chance="0.25"> <item name="AmmoBox_545x39Tracer_20Rnd" /> </cargo>			
-		<cargo chance="0.25"> <item name="AmmoBox_545x39Tracer_20Rnd" /> </cargo>		
-		<cargo chance="0.5"> <item name="AmmoBox_556x45_20Rnd" /> </cargo>			
-		<cargo chance="0.5"> <item name="AmmoBox_556x45_20Rnd" /> </cargo>			
-		<cargo chance="0.5"> <item name="AmmoBox_556x45_20Rnd" /> </cargo>			
-		<cargo chance="0.5"> <item name="AmmoBox_556x45_20Rnd" /> </cargo>			
-		<cargo chance="0.25"> <item name="AmmoBox_556x45Tracer_20Rnd" /> </cargo>			
-		<cargo chance="0.25"> <item name="AmmoBox_556x45Tracer_20Rnd" /> </cargo>		
-		<cargo chance="0.5"> <item name="AmmoBox_762x39_20Rnd" /> </cargo>			
-		<cargo chance="0.5"> <item name="AmmoBox_762x39_20Rnd" /> </cargo>			
-		<cargo chance="0.5"> <item name="AmmoBox_762x39_20Rnd" /> </cargo>			
-		<cargo chance="0.5"> <item name="AmmoBox_762x39_20Rnd" /> </cargo>		
-		<cargo chance="0.25"> <item name="AmmoBox_762x39Tracer_20Rnd" /> </cargo>			
-		<cargo chance="0.25"> <item name="AmmoBox_762x39Tracer_20Rnd" /> </cargo>
-		<cargo chance="0.01"> <item name="Ammo_40mm_ChemGas" /> </cargo>
-		<cargo chance="0.20"> <item name="Ammo_40mm_Smoke_Black" /> </cargo>
-		<cargo chance="0.20"> <item name="Ammo_40mm_Smoke_Red" /> </cargo>
-		<cargo chance="0.20"> <item name="Ammo_40mm_Smoke_White" /> </cargo>
-		<cargo chance="0.20"> <item name="Ammo_40mm_Smoke_Green" /> </cargo>
-		<cargo chance="0.10"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="0.20"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="0.50"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="1.0"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="1.0"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="1.0"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="1.0"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="1.0"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="0.50"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="0.20"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="0.10"> <item name="Ammo_40mm_Explosive" /> </cargo>
+		<cargo chance="0.20">
+			<item name="AmmoBox_9x39_20Rnd" />
+		</cargo>
+		<cargo chance="0.20">
+			<item name="AmmoBox_9x39_20Rnd" />
+		</cargo>
+		<cargo chance="0.10">
+			<item name="AmmoBox_9x39AP_20Rnd" />
+		</cargo>
+		<cargo chance="0.10">
+			<item name="AmmoBox_9x39AP_20Rnd" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="AmmoBox_308Win_20Rnd" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="AmmoBox_308Win_20Rnd" />
+		</cargo>
+		<cargo chance="0.15">
+			<item name="AmmoBox_308WinTracer_20Rnd" />
+		</cargo>
+		<cargo chance="0.15">
+			<item name="AmmoBox_308WinTracer_20Rnd" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="AmmoBox_762x54_20Rnd" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="AmmoBox_762x54_20Rnd" />
+		</cargo>
+		<cargo chance="0.15">
+			<item name="AmmoBox_762x54Tracer_20Rnd" />
+		</cargo>
+		<cargo chance="0.15">
+			<item name="AmmoBox_762x54Tracer_20Rnd" />
+		</cargo>
+		<cargo chance="0.5">
+			<item name="AmmoBox_545x39_20Rnd" />
+		</cargo>
+		<cargo chance="0.5">
+			<item name="AmmoBox_545x39_20Rnd" />
+		</cargo>
+		<cargo chance="0.5">
+			<item name="AmmoBox_545x39_20Rnd" />
+		</cargo>
+		<cargo chance="0.5">
+			<item name="AmmoBox_545x39_20Rnd" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="AmmoBox_545x39Tracer_20Rnd" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="AmmoBox_545x39Tracer_20Rnd" />
+		</cargo>
+		<cargo chance="0.5">
+			<item name="AmmoBox_556x45_20Rnd" />
+		</cargo>
+		<cargo chance="0.5">
+			<item name="AmmoBox_556x45_20Rnd" />
+		</cargo>
+		<cargo chance="0.5">
+			<item name="AmmoBox_556x45_20Rnd" />
+		</cargo>
+		<cargo chance="0.5">
+			<item name="AmmoBox_556x45_20Rnd" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="AmmoBox_556x45Tracer_20Rnd" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="AmmoBox_556x45Tracer_20Rnd" />
+		</cargo>
+		<cargo chance="0.5">
+			<item name="AmmoBox_762x39_20Rnd" />
+		</cargo>
+		<cargo chance="0.5">
+			<item name="AmmoBox_762x39_20Rnd" />
+		</cargo>
+		<cargo chance="0.5">
+			<item name="AmmoBox_762x39_20Rnd" />
+		</cargo>
+		<cargo chance="0.5">
+			<item name="AmmoBox_762x39_20Rnd" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="AmmoBox_762x39Tracer_20Rnd" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="AmmoBox_762x39Tracer_20Rnd" />
+		</cargo>
+		<cargo chance="0.01">
+			<item name="Ammo_40mm_ChemGas" />
+		</cargo>
+		<cargo chance="0.20">
+			<item name="Ammo_40mm_Smoke_Black" />
+		</cargo>
+		<cargo chance="0.20">
+			<item name="Ammo_40mm_Smoke_Red" />
+		</cargo>
+		<cargo chance="0.20">
+			<item name="Ammo_40mm_Smoke_White" />
+		</cargo>
+		<cargo chance="0.20">
+			<item name="Ammo_40mm_Smoke_Green" />
+		</cargo>
+		<cargo chance="0.10">
+			<item name="Ammo_40mm_Explosive" />
+		</cargo>
+		<cargo chance="0.20">
+			<item name="Ammo_40mm_Explosive" />
+		</cargo>
+		<cargo chance="0.50">
+			<item name="Ammo_40mm_Explosive" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="Ammo_40mm_Explosive" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="Ammo_40mm_Explosive" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="Ammo_40mm_Explosive" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="Ammo_40mm_Explosive" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="Ammo_40mm_Explosive" />
+		</cargo>
+		<cargo chance="0.50">
+			<item name="Ammo_40mm_Explosive" />
+		</cargo>
+		<cargo chance="0.20">
+			<item name="Ammo_40mm_Explosive" />
+		</cargo>
+		<cargo chance="0.10">
+			<item name="Ammo_40mm_Explosive" />
+		</cargo>
 	</type>
 	<type name="FishingRod">
 		<attachments chance="0.35">
 			<item name="Hook" chance="0.75" />
 			<item name="Jig" chance="0.25" />
 		</attachments>
-	</type>	
+	</type>
 	<type name="BoonieHat_Orange">
 		<attachments chance="0.35">
 			<item name="Hook" chance="0.75" />
 			<item name="Jig" chance="0.25" />
 		</attachments>
-	</type>	
+	</type>
 	<type name="BoonieHat_Red">
 		<attachments chance="0.35">
 			<item name="Hook" chance="0.75" />
 			<item name="Jig" chance="0.25" />
 		</attachments>
-	</type>	
+	</type>
 	<type name="BoonieHat_Tan">
 		<attachments chance="0.35">
 			<item name="Hook" chance="0.75" />
 			<item name="Jig" chance="0.25" />
 		</attachments>
-	</type>	
+	</type>
 	<type name="BoonieHat_Olive">
 		<attachments chance="0.35">
 			<item name="Hook" chance="0.75" />
 			<item name="Jig" chance="0.25" />
 		</attachments>
-	</type>	
+	</type>
 	<type name="BoonieHat_Blue">
 		<attachments chance="0.35">
 			<item name="Hook" chance="0.75" />
 			<item name="Jig" chance="0.25" />
 		</attachments>
-	</type>	
+	</type>
 	<type name="BoonieHat_Winter">
 		<attachments chance="0.35">
 			<item name="Hook" chance="0.75" />
 			<item name="Jig" chance="0.25" />
 		</attachments>
-	</type>	
+	</type>
 	<type name="AirborneMask">
-		
 		<cargo chance="0.2">
 			<item name="GasMask_Filter" />
 		</cargo>
 	</type>
 	<type name="GP5GasMask">
-		
 		<cargo chance="0.2">
 			<item name="GasMask_Filter" />
 		</cargo>
-	</type>
-	<type name="GasMask">
-		
 	</type>
 	<type name="Bear_Beige">
 		<cargo chance="0.00">
@@ -1142,56 +1143,72 @@
 			<item name="Ammo_9x19" chance="0.20" />
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
-		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+		<cargo chance="0.01">
+			<item name="Derringer_Pink" />
+		</cargo>
 	</type>
 	<type name="MiniDress_PinkChecker">
 		<cargo chance="0.10">
 			<item name="Ammo_9x19" chance="0.20" />
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
-		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+		<cargo chance="0.01">
+			<item name="Derringer_Pink" />
+		</cargo>
 	</type>
 	<type name="MiniDress_RedChecker">
 		<cargo chance="0.10">
 			<item name="Ammo_9x19" chance="0.20" />
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
-		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+		<cargo chance="0.01">
+			<item name="Derringer_Pink" />
+		</cargo>
 	</type>
 	<type name="MiniDress_WhiteChecker">
 		<cargo chance="0.10">
 			<item name="Ammo_9x19" chance="0.20" />
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
-		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+		<cargo chance="0.01">
+			<item name="Derringer_Pink" />
+		</cargo>
 	</type>
 	<type name="MiniDress_GreenChecker">
 		<cargo chance="0.10">
 			<item name="Ammo_9x19" chance="0.20" />
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
-		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+		<cargo chance="0.01">
+			<item name="Derringer_Pink" />
+		</cargo>
 	</type>
 	<type name="MiniDress_BrownChecker">
 		<cargo chance="0.10">
 			<item name="Ammo_9x19" chance="0.20" />
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
-		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+		<cargo chance="0.01">
+			<item name="Derringer_Pink" />
+		</cargo>
 	</type>
 	<type name="MiniDress_BlueChecker">
 		<cargo chance="0.10">
 			<item name="Ammo_9x19" chance="0.20" />
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
-		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+		<cargo chance="0.01">
+			<item name="Derringer_Pink" />
+		</cargo>
 	</type>
 	<type name="MiniDress_BlueWithDots">
 		<cargo chance="0.10">
 			<item name="Ammo_9x19" chance="0.20" />
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
-		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+		<cargo chance="0.01">
+			<item name="Derringer_Pink" />
+		</cargo>
 	</type>
 	<type name="QuiltedJacket_Black">
 		<cargo preset="mixVillage" />
@@ -1411,11 +1428,10 @@
 		</cargo>
 	</type>
 	<type name="ZmbM_usSoldier_Heavy_Woodland">
-		<cargo preset="foodArmy" />		
+		<cargo preset="foodArmy" />
 		<attachments preset="HeavyArmorArmy" />
 		<attachments preset="HeavyHelmetArmy" />
 	</type>
-	
 	<!--City-->
 	<type name="ZmbF_Clerk_Normal_Blue">
 		<cargo preset="foodCity" />
@@ -2070,7 +2086,7 @@
 		<cargo preset="toolsPolice" />
 		<cargo preset="ammoPolice" />
 		<cargo chance="0.10">
-			<item name="Mag_SSG82_5rnd" chance="1.0" />	
+			<item name="Mag_SSG82_5rnd" chance="1.0" />
 		</cargo>
 		<attachments preset="hatsPolice" />
 	</type>
@@ -2078,7 +2094,7 @@
 		<cargo preset="toolsPolice" />
 		<cargo preset="ammoPolice" />
 		<cargo chance="0.10">
-			<item name="Mag_SSG82_5rnd" chance="1.0" />		
+			<item name="Mag_SSG82_5rnd" chance="1.0" />
 		</cargo>
 		<attachments preset="hatsPolice" />
 	</type>
@@ -2087,7 +2103,7 @@
 		<cargo preset="ammoPolice" />
 		<cargo chance="0.30">
 			<item name="Mag_SSG82_5rnd" chance="0.50" />
-			<item name="Mag_Scout_5Rnd" chance="0.50" />			
+			<item name="Mag_Scout_5Rnd" chance="0.50" />
 		</cargo>
 		<attachments preset="hatsPolice" />
 	</type>
@@ -2101,7 +2117,6 @@
 		<attachments preset="hatsPolice" />
 		<attachments preset="vestsPolice" />
 	</type>
-	
 	<!--Prisoner-->
 	<type name="ZmbM_PrisonerSkinny">
 		<cargo chance="0.10">
@@ -2673,7 +2688,6 @@
 		<attachments preset="GhillieWraps" />
 	</type>
 	<!--  END OF WEAPONS  -->
-
 	<!-- XMAS -->
 	<type name="GiftBox_Small_1">
 		<cargo preset="Xmas_Clothes_Small" />
@@ -2875,7 +2889,6 @@
 		<cargo preset="Xmas_Food_Small" />
 		<cargo preset="Xmas_Chemlights_Small" />
 	</type>
-	
 	<!-- VEHICLES -->
 	<type name="Boat_01_Black">
 		<attachments chance="0.10">
@@ -2940,7 +2953,7 @@
 		<attachments chance="1.00">
 			<item name="HatchbackTrunk" chance="0.20" />
 		</attachments>
-	</type>	
+	</type>
 	<type name="Offroad_02">
 		<attachments chance="1.00">
 			<item name="Offroad_02_Wheel" chance="0.80" />
