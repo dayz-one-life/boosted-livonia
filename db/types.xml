@@ -2332,7 +2332,7 @@
         <category name="tools"/>
     </type>
     <type name="BakedBeansCan">
-        <nominal>10</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -2672,10 +2672,10 @@
         <usage name="Military"/>
     </type>
     <type name="BandageDressing">
-        <nominal>15</nominal>
+        <nominal>40</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>25</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -3736,7 +3736,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="BoxCerealCrunchin">
-        <nominal>10</nominal>
+        <nominal>20</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -3897,7 +3897,7 @@
         <usage name="Village"/>
     </type>
     <type name="BrisketSpread">
-        <nominal>10</nominal>
+        <nominal>20</nominal>
         <lifetime>9000</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -4183,7 +4183,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Canteen">
-        <nominal>20</nominal>
+        <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -4468,7 +4468,7 @@
         <category name="food"/>
     </type>
     <type name="CatFoodCan">
-        <nominal>10</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -4753,7 +4753,7 @@
         <value name="Tier2"/>
     </type>
     <type name="Chips">
-        <nominal>15</nominal>
+        <nominal>20</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -5755,7 +5755,7 @@
         <category name="food"/>
     </type>
     <type name="Crackers">
-        <nominal>15</nominal>
+        <nominal>20</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -6551,10 +6551,10 @@
         <category name="containers"/>
     </type>
     <type name="DuctTape">
-        <nominal>75</nominal>
+        <nominal>100</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>55</min>
+        <min>75</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -6656,10 +6656,10 @@
         <usage name="Medic"/>
     </type>
     <type name="EpoxyPutty">
-        <nominal>40</nominal>
+        <nominal>75</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>25</min>
+        <min>50</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -9882,7 +9882,7 @@
         <usage name="Coast"/>
     </type>
     <type name="Honey">
-        <nominal>10</nominal>
+        <nominal>20</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -11593,10 +11593,10 @@
         <category name="containers"/>
     </type>
     <type name="LeatherSewingKit">
-        <nominal>50</nominal>
+        <nominal>75</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>50</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -11775,7 +11775,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Lunchmeat">
-        <nominal>10</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -17314,10 +17314,10 @@
         <category name="lootdispatch"/>
     </type>
     <type name="SewingKit">
-        <nominal>75</nominal>
+        <nominal>100</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>55</min>
+        <min>75</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -19393,7 +19393,7 @@
         <category name="tools"/>
     </type>
     <type name="TetracyclineAntibiotics">
-        <nominal>20</nominal>
+        <nominal>40</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>15</min>
@@ -20301,7 +20301,7 @@
         <value name="Tier3"/>
     </type>
     <type name="VitaminBottle">
-        <nominal>30</nominal>
+        <nominal>50</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>15</min>
@@ -20358,7 +20358,7 @@
         <category name="tools"/>
     </type>
     <type name="WaterBottle">
-        <nominal>50</nominal>
+        <nominal>60</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>30</min>
@@ -21341,7 +21341,7 @@
         <usage name="Military"/>
     </type>
     <type name="Zagorky">
-        <nominal>10</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -21360,7 +21360,7 @@
         <value name="Tier2"/>
     </type>
     <type name="ZagorkyChocolate">
-        <nominal>10</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -21373,7 +21373,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="ZagorkyPeanuts">
-        <nominal>10</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
