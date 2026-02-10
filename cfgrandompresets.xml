@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <randompresets>
 	    <attachments chance="1.0" name="9v">
-				<item name="Battery9V" chance="1.0" />
+			<item name="Battery9V" chance="1.0" />
 		</attachments>
 		<attachments chance="1.0" name="AK_Buttstocks">
 			<item name="AK74_WoodBttstck" chance="0.1" />
@@ -54,6 +54,15 @@
 		</attachments>
 		<attachments chance="1.0" name="Saiga_Buttstocks">
 			<item name="Saiga_Bttstck" chance="1.0" />
+		</attachments>
+		<attachments chance="0.1" name="AK_Suppressors">
+			<item name="AK_Suppressor" chance="1.0" />
+		</attachments>
+		<attachments chance="0.1" name="M4_Suppressors">
+			<item name="M4_Suppressor" chance="1.0" />
+		</attachments>
+		<attachments chance="0.5" name="Pistol_Suppressors">
+			<item name="PistolSuppressor" chance="1.0" />
 		</attachments>
 
 
