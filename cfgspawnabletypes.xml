@@ -1465,6 +1465,12 @@
 		<cargo preset="foodArmy" />
 		<attachments preset="HeavyArmorArmy" />
 		<attachments preset="HeavyHelmetArmy" />
+		<cargo chance="0.4">
+			<item name="ShippingContainerKeys_Red" chance="0.25" />
+			<item name="ShippingContainerKeys_Orange" chance="0.25" />
+			<item name="ShippingContainerKeys_Yellow" chance="0.25" />
+			<item name="ShippingContainerKeys_Blue" chance="0.25" />
+		</cargo>
 	</type>
 	<!--City-->
 	<type name="ZmbF_Clerk_Normal_Blue">
