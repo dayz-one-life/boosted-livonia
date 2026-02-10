@@ -128,27 +128,61 @@
 	<type name="WoodenCrate">
 		<hoarder />
 	</type>
+	<type name="PlateCarrierVest">
+		<attachments chance="1.0">
+			<item name="PlateCarrierHolster" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="PlateCarrierPouches" chance="1.00" />
+		</attachments>
+	</type>
 	<type name="PlateCarrierVest_Black">
-		<attachments chance="0.85">
+		<attachments chance="1.0">
 			<item name="PlateCarrierHolster_Black" chance="1.00" />
 		</attachments>
-		<attachments chance="0.85">
+		<attachments chance="1.0">
 			<item name="PlateCarrierPouches_Black" chance="1.00" />
 		</attachments>
 	</type>
+	<type name="PlateCarrierVest_Camo">
+		<attachments chance="1.0">
+			<item name="PlateCarrierHolster_Camo" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="PlateCarrierPouches_Camo" chance="1.00" />
+		</attachments>
+	</type>
 	<type name="PlateCarrierVest_Green">
-		<attachments chance="0.85">
+		<attachments chance="1.0">
 			<item name="PlateCarrierHolster_Green" chance="1.00" />
 		</attachments>
-		<attachments chance="0.85">
+		<attachments chance="1.0">
 			<item name="PlateCarrierPouches_Green" chance="1.00" />
 		</attachments>
 	</type>
-	<type name="Mich2001Helmet">
-		<attachments chance="0.85">
-			<item name="NVGoggles" chance="1.00" />
-			<item name="Battery9V" chance="1.00" />
+	<type name="PlateCarrierVest_Winter">
+		<attachments chance="1.0">
+			<item name="PlateCarrierHolster_Winter" chance="1.00" />
 		</attachments>
+		<attachments chance="1.0">
+			<item name="PlateCarrierPouches_Winter" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Mich2001Helmet">
+		<attachments chance="1.0">
+			<item name="NVGoggles" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="UniversalLight" chance="1.00" />
+		</attachments>
+		<attachments preset="9v" />
+		<attachments preset="9v" />
+	</type>
+	<type name="NVGHeadstrap">
+		<attachments chance="1.0">
+			<item name="NVGoggles" chance="1.00" />
+		</attachments>
+		<attachments preset="9v" />
 	</type>
 	<type name="AssaultBag_Ttsko">
 		<cargo preset="mixArmy" />
