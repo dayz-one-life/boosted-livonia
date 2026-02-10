@@ -9551,10 +9551,10 @@
         <category name="tools"/>
     </type>
     <type name="HeadlightH7_Box">
-        <nominal>50</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>0</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
