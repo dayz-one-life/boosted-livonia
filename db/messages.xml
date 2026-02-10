@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+    <message>
+        <deadline>120</deadline>
+        <shutdown>1</shutdown>
+        <text>Server will restart in #tmin minutes.</text>
+    </message>
+    <message>
+        <repeat>1</repeat>
+        <text>Welcome to One Life. Death results in a ban, so survive wisely!</text>
+    </message>
+    <message>
+        <repeat>1</repeat>
+        <text>Earn unban tokens through discord by linking your account and referring other players!</text>
+    </message>
+    <message>
+        <repeat>1</repeat>
+        <text>Unlinked players will be banned after 24 hours.</text>
+    </message>
+    <message>
+        <repeat>1</repeat>
+        <text>Join the discord: dayzonelife.com or discord.gg/zGHaQBsUZU</text>
+    </message>
+</messages>
