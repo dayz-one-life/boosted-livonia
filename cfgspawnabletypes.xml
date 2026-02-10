@@ -2640,11 +2640,7 @@
 		</attachments>
 	</type>
 	<type name="FAL">
-		
-		<attachments chance="1.00">
-			<item name="Fal_FoldingBttstck" chance="0.50" />
-			<item name="Fal_OeBttstck" chance="1.00" />
-		</attachments>
+		<attachments preset="FAL_Buttstocks" />
 		<attachments chance="0.20">
 			<item name="BUISOptic" chance="0.20" />
 			<item name="M68Optic" chance="0.20" />

@@ -38,6 +38,14 @@
 			<item name="M4_RISHndgrd_Black" chance="0.2" />
 			<item name="M4_RISHndgrd_Green" chance="0.2" />
 		</attachments>
+		<attachments chance="1.0" name="FAL_Buttstocks">
+			<item name="Fal_FoldingBttstck" chance="0.5" />
+			<item name="Fal_OeBttstck" chance="0.5" />
+		</attachments>
+
+
+
+
 		<cargo chance="0.15" name="foodHermit">
 				<item name="TunaCan" chance="0.11" />
 				<item name="SardinesCan" chance="0.11" />
