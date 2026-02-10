@@ -231,6 +231,26 @@
 		<item name="M68Optic" chance="0.25" />
 		<item name="KashtanOptic" chance="0.25" />
 	</attachments>
+	<!-- BAYONETS -->
+	<attachments chance="0.1" name="AK_Bayonets">
+		<item name="AK_Bayonet" chance="1.0" />
+	</attachments>
+	<attachments chance="0.1" name="M4_Bayonets">
+		<item name="M9A1_Bayonet" chance="1.0" />
+	</attachments>
+	<attachments chance="0.1" name="Mosin_Bayonets">
+		<item name="Mosin_Bayonet" chance="1.0" />
+	</attachments>
+	<attachments chance="0.1" name="SKS_Bayonets">
+		<item name="SKS_Bayonet" chance="1.0" />
+	</attachments>
+	<!-- COMPENSATORS -->
+	<attachments chance="0.1" name="Mosin_Compensators">
+		<item name="Mosin_Compensator" chance="1.0" />
+	</attachments>
+	<attachments chance="0.1" name="MP5_Compensators">
+		<item name="MP5_Compensator" chance="1.0" />
+	</attachments>
 
 
 

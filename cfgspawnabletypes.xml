@@ -2404,6 +2404,7 @@
 		<attachments preset="MP5_Handguards" />
 		<attachments preset="MP5_Magazines" />
 		<attachments preset="PistolSuppressors" />
+		<attachments preset="MP5_Compensators" />
 		<attachments preset="RifleLights" />
 		<attachments preset="9v" />
 		<attachments preset="M4_CQB_Optics" />
@@ -2445,14 +2446,18 @@
 	<type name="Winchester70">
 	</type>
 	<type name="Mosin9130">
+		<attachments preset="Mosin_Bayonets" />
+		<attachments preset="Mosin_Compensators" />
 	</type>
 	<type name="SKS">
+		<attachments preset="SKS_Bayonets" />
 	</type>
 	<type name="AKM">
 		<attachments preseet="AK_Buttstocks" />
 		<attachments preset="AK_Handguards" />
 		<attachments preset="AKM_Magazines" />
 		<attachments preset="AK_Suppressors" />
+		<attachments preset="AK_Bayonets" />
 		<attachments preset="RifleLights" />
 		<attachments preset="9v" />
 		<attachments preset="AK74_CQB_Optics" />
@@ -2463,6 +2468,7 @@
 		<attachments preset="AK_Handguards" />
 		<attachments preset="AK74_Magazines" />
 		<attachments preset="AK_Suppressors" />
+		<attachments preset="AK_Bayonets" />
 		<attachments preset="RifleLights" />
 		<attachments preset="9v" />
 		<attachments preset="AK74_CQB_Optics" />
@@ -2478,6 +2484,7 @@
 		<attachments preset="AK_Handguards" />
 		<attachments preset="AK101_Magazines" />
 		<attachments preset="AK_Suppressors" />
+		<attachments preset="AK_Bayonets" />
 		<attachments preset="RifleLights" />
 		<attachments preset="9v" />
 		<attachments preset="AK74_CQB_Optics" />
@@ -2488,6 +2495,7 @@
 		<attachments preset="M4_Handguards" />
 		<attachments preset="556_Magazines" />
 		<attachments preset="M4_Suppressors" />
+		<attachments preset="M4_Bayonets" />
 		<attachments preset="RifleLights" />
 		<attachments preset="9v" />
 		<attachments preset="M4_Optics" />
@@ -2495,6 +2503,7 @@
 	</type>
 	<type name="M16A2">
 		<attachments preset="556_Magazines" />
+		<attachments preset="M4_Bayonets" />
 	</type>
 	<type name="FAMAS">
 		<attachments preset="FAMAS_Magazines" />
