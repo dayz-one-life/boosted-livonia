@@ -2376,17 +2376,23 @@
 		<attachments preset="PistolSuppressors" />
 		<attachments preset="PistolLights" />
 		<attachments preset="9v" />
+		<attachments preset="PistolOptics" />
+		<attachments preset="9v" />
 	</type>
 	<type name="Glock19">
 		<attachments preset="Glock_Magazines" />
 		<attachments preset="PistolSuppressors" />
 		<attachments preset="PistolLights" />
 		<attachments preset="9v" />
+		<attachments preset="PistolOptics" />
+		<attachments preset="9v" />
 	</type>
 	<type name="FNX45">
 		<attachments preset="FNX45_Magazines" />
 		<attachments preset="PistolSuppressors" />
 		<attachments preset="PistolLights" />
+		<attachments preset="9v" />
+		<attachments preset="PistolOptics" />
 		<attachments preset="9v" />
 	</type>
 	<type name="CZ61">
@@ -2400,26 +2406,38 @@
 		<attachments preset="PistolSuppressors" />
 		<attachments preset="RifleLights" />
 		<attachments preset="9v" />
+		<attachments preset="M4_CQB_Optics" />
+		<attachments preset="9v" />
 	</type>
 	<type name="UMP45">
 		<attachments preset="UMP45_Magazines" />
 		<attachments preset="PistolSuppressors" />
 		<attachments preset="RifleLights" />
 		<attachments preset="9v" />
+		<attachments preset="M4_CQB_Optics" />
+		<attachments preset="9v" />
 	</type>
 	<type name="VSS">
 		<attachments preset="9x39_Magazines" />
+		<attachments preset="AK74_Optics" />
+		<attachments preset="9v" />
 	</type>
 	<type name="ASVAL">
 		<attachments preset="9x39_Magazines" />
 		<attachments preset="RifleLights" />
 		<attachments preset="9v" />
+		<attachments preset="M4_Optics" />
+		<attachments preset="9v" />
 	</type>
 	<type name="Vikhr">
 		<attachments preset="9x39_Magazines" />
+		<attachments preset="AK74_CQB_Optics" />
+		<attachments preset="9v" />
 	</type>
 	<type name="SV98">
 		<attachments preset="SV98_Magazines" />
+		<attachments preset="M4_Sniper_Optics" />
+		<attachments preset="9v" />
 	</type>
 	<type name="CZ527">
 		<attachments preset="CZ527_Magazines" />
@@ -2437,6 +2455,8 @@
 		<attachments preset="AK_Suppressors" />
 		<attachments preset="RifleLights" />
 		<attachments preset="9v" />
+		<attachments preset="AK74_CQB_Optics" />
+		<attachments preset="9v" />
 	</type>
 	<type name="AK74">
 		<attachments preseet="AK_Buttstocks" />
@@ -2444,6 +2464,8 @@
 		<attachments preset="AK74_Magazines" />
 		<attachments preset="AK_Suppressors" />
 		<attachments preset="RifleLights" />
+		<attachments preset="9v" />
+		<attachments preset="AK74_CQB_Optics" />
 		<attachments preset="9v" />
 	</type>
 	<type name="AKS74U">
@@ -2458,6 +2480,8 @@
 		<attachments preset="AK_Suppressors" />
 		<attachments preset="RifleLights" />
 		<attachments preset="9v" />
+		<attachments preset="AK74_CQB_Optics" />
+		<attachments preset="9v" />
 	</type>
 	<type name="M4A1">
 		<attachments preset="M4_Buttstocks" />
@@ -2465,6 +2489,8 @@
 		<attachments preset="556_Magazines" />
 		<attachments preset="M4_Suppressors" />
 		<attachments preset="RifleLights" />
+		<attachments preset="9v" />
+		<attachments preset="M4_Optics" />
 		<attachments preset="9v" />
 	</type>
 	<type name="M16A2">
@@ -2478,6 +2504,8 @@
 		<attachments preset="M4_Suppressors" />
 		<attachments preset="RifleLights" />
 		<attachments preset="9v" />
+		<attachments preset="M4_Optics" />
+		<attachments preset="9v" />
 	</type>
 	<type name="AugShort">
 		<attachments preset="Aug_Magazines" />
@@ -2485,14 +2513,20 @@
 	<type name="FAL">
 		<attachments preset="FAL_Buttstocks" />
 		<attachments preset="FAL_Magazines" />
+		<attachments preset="M4_Optics" />
+		<attachments preset="9v" />
 	</type>
 	<type name="SVD">
 		<attachments preset="SVD_Magazines" />
 		<attachments preset="AK_Suppressors" />
+		<attachments preset="AK74_Sniper_Optics" />
+		<attachments preset="9v" />
 	</type>
 	<type name="SVD_Wooden">
 		<attachments preset="SVD_Magazines" />
 		<attachments preset="AK_Suppressors" />
+		<attachments preset="AK74_Sniper_Optics" />
+		<attachments preset="9v" />
 	</type>
 	<type name="Colt1911">
 		<attachments preset="1911_Magazines" />
@@ -2511,6 +2545,8 @@
 	<type name="Saiga">
 		<attachments preset="Saiga_Buttstocks" />
 		<attachments preset="Saiga_Magazines" />
+		<attachments preset="AK74_CQB_Optics" />
+		<attachments preset="9v" />
 	</type>
 	<type name="Ruger1022">
 		<attachments preset="1022_Magazines" />
@@ -2518,22 +2554,32 @@
 	<type name="Deagle">
 		<attachments preset="Deagle_Magazines" />
 		<attachments preset="PistolSuppressors" />
+		<attachments preset="PistolOptics" />
+		<attachments preset="9v" />
 	</type>
 	<type name="Deagle_Gold">
 		<attachments preset="Deagle_Magazines" />
 		<attachments preset="PistolSuppressors" />
+		<attachments preset="PistolOptics" />
+		<attachments preset="9v" />
 	</type>
 	<type name="Scout">
 		<attachments preset="Scout_Magazines" />
 		<attachments preset="M4_Suppressors" />
+		<attachments preset="M4_Sniper_Optics" />
+		<attachments preset="9v" />
 	</type>
 	<type name="Scout_Chernarus">
 		<attachments preset="Scout_Magazines" />
 		<attachments preset="M4_Suppressors" />
+		<attachments preset="M4_Sniper_Optics" />
+		<attachments preset="9v" />
 	</type>
 	<type name="Scout_Livonia">
 		<attachments preset="Scout_Magazines" />
 		<attachments preset="M4_Suppressors" />
+		<attachments preset="M4_Sniper_Optics" />
+		<attachments preset="9v" />
 	</type>
 	<type name="CZ550">
 		<attachments preset="CZ550_Magazines" />
@@ -2542,6 +2588,8 @@
 		<attachments preset="PP19_Buttstocks" />
 		<attachments preset="PP19_Magazines" />
 		<attachments preset="PistolSuppressors" />
+		<attachments preset="AK74_CQB_Optics" />
+		<attachments preset="9v" />
 	</type>
 	<type name="PM73Rak">
 		<attachments preset="PM73_Magazines" />
@@ -2549,8 +2597,11 @@
 	<type name="R12">
 		<attachments preset="RifleLights" />
 		<attachments preset="9v" />
+		<attachments preset="M4_CQB_Optics" />
+		<attachments preset="9v" />
 	</type>
 	<type name="LongHorn">
+		<attachments preset="LongRangePistolOptics" />
 	</type>
 	<type name="P1">
 		<attachments preset="P1_Magazines" />
@@ -2559,9 +2610,13 @@
 		<attachments preset="SSG82_Magazines" />
 	</type>
 	<type name="MP133Shotgun">
+		<attachments preset="PistolOptics" />
+		<attachments preset="9v" />
 	</type>
 	<type name="M14">
 		<attachments preset="M14_Magazines" />
+		<attachments preset="M4_Sniper_Optics" />
+		<attachments preset="9v" />
 	</type>
 	<!--  END OF WEAPONS  -->
 
