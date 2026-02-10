@@ -64,6 +64,118 @@
 		<attachments chance="0.5" name="Pistol_Suppressors">
 			<item name="PistolSuppressor" chance="1.0" />
 		</attachments>
+		<attachments chance="0.5" name="PistolLights">
+			<item name="TLRLight" chance="1.00" />
+		</attachments>
+		<attachments chance="0.5" name="RifleLights">
+			<item name="UniversalLight" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0" name="IJ_Magazines">
+			<item name="Mag_IJ70_8Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0" name="MKII_Magazines">
+			<item name="Mag_MKII_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0" name="CZ75_Magazines">
+			<item name="Mag_CZ75_15Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0" name="Glock_Magazines">
+			<item name="Mag_Glock_15Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0" name="FNX45_Magazines">
+			<item name="Mag_FNX45_15Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0" name="CZ61_Magazines">
+			<item name="Mag_CZ61_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0" name="MP5_Magazines">
+			<item name="Mag_MP5_15Rnd" chance="0.5" />
+			<item name="Mag_MP5_30Rnd" chance="0.5" />
+		</attachments>
+		<attachments chance="1.0" name="UMP45_Magazines">
+			<item name="Mag_UMP_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0" name="9x39_Magazines">
+			<item name="Mag_VSS_10Rnd" chance="0.34" />
+			<item name="Mag_VAL_20Rnd" chance="0.34" />
+			<item name="Mag_Vikhr_30Rnd" chance="0.34" />
+		</attachments>
+		<attachments chance="1.0" name="SV98_Magazines">
+			<item name="Mag_SV98_10Rnd" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0" name="CZ527_Magazines">
+			<item name="Mag_CZ527_5rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0" name="AKM_Magazines">
+			<item name="Mag_AKM_30Rnd" chance="0.34" />
+			<item name="Mag_AKM_Palm30Rnd" chance="0.34" />
+			<item name="Mag_AKM_Drum75Rnd" chance="0.34" />
+		</attachments>
+		<attachments chance="1.0" name="AK74_Magazines">
+			<item name="Mag_AK74_45Rnd" chance="0.5" />
+			<item name="Mag_AK74_30Rnd" chance="0.5" />
+		</attachments>
+		<attachments chance="1.0" name="AK101_Magazines">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0" name="556_Magazines">
+			<item name="Mag_CMAG_10Rnd" chance="0.17" />
+			<item name="Mag_CMAG_20Rnd" chance="0.17" />
+			<item name="Mag_CMAG_30Rnd" chance="0.17" />
+			<item name="Mag_CMAG_40Rnd" chance="0.17" />
+			<item name="Mag_STANAG_30Rnd" chance="0.17" />
+			<item name="Mag_STANAG_60Rnd" chance="0.17" />
+		</attachments>
+		<attachments chance="1.0" name="FAMAS_Magazines">
+			<item name="Mag_FAMAS_25Rnd" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0" name="Aug_Magazines">
+			<item name="Mag_Aug_30Rnd" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0" name="FAL_Magazines">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0" name="SVD_Magazines">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0" name="1911_Magazines">
+			<item name="Mag_1911_7Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0" name="Saiga_Magazines">
+			<item name="Mag_Saiga_5Rnd" chance="0.34" />
+			<item name="Mag_Saiga_8Rnd" chance="0.34" />
+			<item name="Mag_Saiga_Drum20Rnd" chance="0.34" />
+		</attachments>
+		<attachments chance="1.0" name="1022_Magazines">
+			<item name="Mag_Ruger1022_30Rnd" chance="0.5" />
+			<item name="Mag_Ruger1022_15Rnd" chance="0.5" />
+		</attachments>
+		<attachments chance="1.0" name="Deagle_Magazines">
+			<item name="Mag_Deagle_9rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0" name="Scout_Magazines">
+			<item name="Mag_Scout_5Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0" name="CZ550_Magazines">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0" name="PP19_Magazines">
+			<item name="Mag_PP19_64Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0" name="PM73_Magazines">
+			<item name="Mag_PM73_15Rnd" chance="0.5" />
+			<item name="Mag_PM73_25Rnd" chance="0.5" />
+		</attachments>
+		<attachments chance="1.0" name="P1_Magazines">
+			<item name="Mag_P1_8Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0" name="SSG82_Magazines">
+			<item name="Mag_SSG82_5rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.25" name="M14_Magazines">
+			<item name="Mag_M14_10Rnd" chance="0.70" />
+			<item name="Mag_M14_20Rnd" chance="0.30" />
+		</attachments>
 
 
 
