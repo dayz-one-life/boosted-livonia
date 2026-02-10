@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <spawnabletypes>
+	<type name="ImprovisedExplosive">
+		<cargo chance="1.0">
+			<item name="Plastic_Explosive" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="Plastic_Explosive" />
+		</cargo>
+	</type>
 	<type name="Barrel_Blue">
 		<hoarder />
 	</type>
