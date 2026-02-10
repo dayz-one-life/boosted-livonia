@@ -63,16 +63,17 @@
         <category name="weapons"/>
     </type>
     <type name="AK74">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
         <usage name="Military"/>
+        <value name="Tier3"/>
     </type>
     <type name="AK74_Black">
         <nominal>0</nominal>
@@ -133,16 +134,17 @@
         <usage name="Military"/>
     </type>
     <type name="AKS74U">
-        <nominal>0</nominal>
+        <nominal>15</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>10</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
         <usage name="Military"/>
+        <value name="Tier2"/>
     </type>
     <type name="AKS74U_Black">
         <nominal>0</nominal>
@@ -4036,10 +4038,10 @@
         <value name="Tier3"/>
     </type>
     <type name="CZ61">
-        <nominal>0</nominal>
+        <nominal>20</nominal>
         <lifetime>7200</lifetime>
         <restock>180</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -4048,10 +4050,10 @@
         <usage name="Police"/>
     </type>
     <type name="CZ75">
-        <nominal>0</nominal>
+        <nominal>25</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -12330,7 +12332,7 @@
         <category name="food"/>
     </type>
     <type name="Mag_1911_7Rnd">
-        <nominal>40</nominal>
+        <nominal>50</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>32</min>
@@ -12343,7 +12345,7 @@
         <value name="Tier1"/>
     </type>
     <type name="Mag_AK101_30Rnd">
-        <nominal>15</nominal>
+        <nominal>25</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -12356,10 +12358,10 @@
         <value name="Tier3"/>
     </type>
     <type name="Mag_AK74_30Rnd">
-        <nominal>0</nominal>
+        <nominal>20</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>10</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -12368,10 +12370,10 @@
         <usage name="Military"/>
     </type>
     <type name="Mag_AK74_45Rnd">
-        <nominal>0</nominal>
+        <nominal>20</nominal>
         <lifetime>5400</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <min>10</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -12380,7 +12382,7 @@
         <usage name="Military"/>
     </type>
     <type name="Mag_AKM_30Rnd">
-        <nominal>4</nominal>
+        <nominal>14</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -12392,7 +12394,7 @@
         <usage name="Military"/>
     </type>
     <type name="Mag_AKM_Drum75Rnd">
-        <nominal>2</nominal>
+        <nominal>12</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -12404,7 +12406,7 @@
         <usage name="Military"/>
     </type>
     <type name="Mag_AKM_Palm30Rnd">
-        <nominal>4</nominal>
+        <nominal>14</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -12416,7 +12418,7 @@
         <usage name="Military"/>
     </type>
     <type name="Mag_Aug_30Rnd">
-        <nominal>5</nominal>
+        <nominal>15</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>2</min>
@@ -12429,7 +12431,7 @@
         <value name="Tier3"/>
     </type>
     <type name="Mag_CMAG_10Rnd">
-        <nominal>10</nominal>
+        <nominal>20</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -12443,7 +12445,7 @@
         <value name="Tier3"/>
     </type>
     <type name="Mag_CMAG_20Rnd">
-        <nominal>16</nominal>
+        <nominal>26</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -12457,7 +12459,7 @@
         <value name="Tier3"/>
     </type>
     <type name="Mag_CMAG_30Rnd">
-        <nominal>16</nominal>
+        <nominal>26</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -12470,7 +12472,7 @@
         <value name="Tier3"/>
     </type>
     <type name="Mag_CMAG_40Rnd">
-        <nominal>5</nominal>
+        <nominal>15</nominal>
         <lifetime>5400</lifetime>
         <restock>1800</restock>
         <min>2</min>
@@ -12483,7 +12485,7 @@
         <value name="Tier3"/>
     </type>
     <type name="Mag_CZ527_5rnd">
-        <nominal>45</nominal>
+        <nominal>55</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>35</min>
@@ -12499,7 +12501,7 @@
         <value name="Tier3"/>
     </type>
     <type name="Mag_CZ550_10Rnd">
-        <nominal>8</nominal>
+        <nominal>28</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -12513,10 +12515,10 @@
         <value name="Tier3"/>
     </type>
     <type name="Mag_CZ61_20Rnd">
-        <nominal>0</nominal>
+        <nominal>20</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -12525,10 +12527,10 @@
         <usage name="Police"/>
     </type>
     <type name="Mag_CZ75_15Rnd">
-        <nominal>0</nominal>
+        <nominal>20</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -12552,7 +12554,7 @@
         <usage name="Town"/>
     </type>
     <type name="Mag_FAL_20Rnd">
-        <nominal>6</nominal>
+        <nominal>16</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>3</min>
@@ -12564,7 +12566,7 @@
         <usage name="Military"/>
     </type>
     <type name="Mag_FAMAS_25Rnd">
-        <nominal>5</nominal>
+        <nominal>15</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>2</min>
@@ -12578,7 +12580,7 @@
         <value name="Tier3"/>
     </type>
     <type name="Mag_FNX45_15Rnd">
-        <nominal>20</nominal>
+        <nominal>30</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -12604,10 +12606,10 @@
         <usage name="Police"/>
     </type>
     <type name="Mag_IJ70_8Rnd">
-        <nominal>0</nominal>
+        <nominal>20</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -12616,7 +12618,7 @@
         <usage name="Village"/>
     </type>
     <type name="Mag_M14_10Rnd">
-        <nominal>16</nominal>
+        <nominal>26</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>13</min>
@@ -12630,7 +12632,7 @@
         <value name="Tier3"/>
     </type>
     <type name="Mag_M14_20Rnd">
-        <nominal>10</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>7</min>
@@ -12722,10 +12724,10 @@
         <usage name="Police"/>
     </type>
     <type name="Mag_PP19_64Rnd">
-        <nominal>0</nominal>
+        <nominal>20</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -12764,10 +12766,10 @@
         <value name="Tier2"/>
     </type>
     <type name="Mag_SSG82_5rnd">
-        <nominal>0</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -12802,7 +12804,7 @@
         <value name="Tier3"/>
     </type>
     <type name="Mag_SV98_10Rnd">
-        <nominal>4</nominal>
+        <nominal>14</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -12814,7 +12816,7 @@
         <usage name="Military"/>
     </type>
     <type name="Mag_SVD_10Rnd">
-        <nominal>6</nominal>
+        <nominal>16</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
         <min>4</min>
@@ -12866,7 +12868,7 @@
         <usage name="Military"/>
     </type>
     <type name="Mag_Scout_5Rnd">
-        <nominal>8</nominal>
+        <nominal>18</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -12880,7 +12882,7 @@
         <value name="Tier3"/>
     </type>
     <type name="Mag_UMP_25Rnd">
-        <nominal>24</nominal>
+        <nominal>34</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>19</min>
@@ -12894,7 +12896,7 @@
         <value name="Tier3"/>
     </type>
     <type name="Mag_VAL_20Rnd">
-        <nominal>5</nominal>
+        <nominal>15</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
         <min>3</min>
@@ -12907,7 +12909,7 @@
         <value name="Tier3"/>
     </type>
     <type name="Mag_VSS_10Rnd">
-        <nominal>5</nominal>
+        <nominal>15</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
         <min>3</min>
@@ -12920,7 +12922,7 @@
         <value name="Tier3"/>
     </type>
     <type name="Mag_Vikhr_30Rnd">
-        <nominal>4</nominal>
+        <nominal>14</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -12947,10 +12949,10 @@
         <value name="Tier2"/>
     </type>
     <type name="MakarovIJ70">
-        <nominal>0</nominal>
+        <nominal>30</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>10</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -14544,10 +14546,10 @@
         <usage name="Police"/>
     </type>
     <type name="PP19">
-        <nominal>0</nominal>
+        <nominal>30</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -16403,10 +16405,10 @@
         <value name="Tier3"/>
     </type>
     <type name="SSG82">
-        <nominal>0</nominal>
+        <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -20273,10 +20275,10 @@
         <usage name="Village"/>
     </type>
     <type name="VSS">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
