@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
+	<event name="Land_ContainerLocked_Red_DE">
+		<pos x="5599.82" y="421.913" z="3749" a="-114.501"/>
+	</event>
+	<event name="Land_ContainerLocked_Blue_DE">
+		<pos x="8935.51" y="473.943" z="2068.5" a="134.209"/>
+	</event>
+	<event name="Land_ContainerLocked_Orange_DE">
+		<pos x="591.113" y="616.861" z="1130.52" a="0"/>
+	</event>
+	<event name="Land_ContainerLocked_Yellow_DE">
+		<pos x="4903.54" y="525.979" z="2117.02" a="158.532"/>
+	</event>
+</events>
