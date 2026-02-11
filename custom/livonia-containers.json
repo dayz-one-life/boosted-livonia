@@ -1,0 +1,36 @@
+{
+    "Objects": [
+        {
+            "name": "Land_Shed_Closed2",
+            "pos": [
+                3923.0,
+                240.0,
+                10281.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_ContainerLocked_Blue_DE",
+            "pos": [
+                3926.0,
+                239.69821166992188,
+                10284.0
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}
